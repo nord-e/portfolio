@@ -1,0 +1,56 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Eric C. Nordstrom Portfolio Blog</title>
+        <link>http://localhost:1313/blog/</link>
+        <description>Eric C. Nordstrom Portfolio Blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>ericnordstrom@gmail.com (Eric C. Nordstrom)</managingEditor>
+            <webMaster>ericnordstrom@gmail.com (Eric C. Nordstrom)</webMaster><lastBuildDate>Tue, 18 Mar 2025 20:26:26 -1000</lastBuildDate>
+            <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>First Post</title>
+    <link>http://localhost:1313/blog/posts/first_post/</link>
+    <pubDate>Tue, 18 Mar 2025 20:24:21 -1000</pubDate>
+    <author>Eric C. Nordstrom</author>
+    <guid>http://localhost:1313/blog/posts/first_post/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/blog/images/excel.jpg" referrerpolicy="no-referrer">
+            </div><h1 id="this-is-in-documentsblogcontnetpostsfirst-postmd">This is in Documents/blog/contnet/posts/first-post.md</h1>
+<h2 id="this-is-h2">This is H2</h2>
+<p><strong><ruby>Ruby Annotation<rt>Maybe I&rsquo;d have a use for this</rt></ruby></strong></p>
+<p>Let&rsquo;s see some eyes! :eyes:</p>]]></description>
+</item>
+<item>
+    <title>My First Post</title>
+    <link>http://localhost:1313/blog/posts/my-first-post/</link>
+    <pubDate>Tue, 18 Mar 2025 20:24:21 -1000</pubDate>
+    <author>Eric C. Nordstrom</author>
+    <guid>http://localhost:1313/blog/posts/my-first-post/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/blog/images/hugo.jpg" referrerpolicy="no-referrer">
+            </div><h1 id="this-is-in-documentsblogcontnetpostsmy-first-postmd">This is in Documents/blog/contnet/posts/my-first-post.md</h1>
+<h2 id="this-is-h2">This is H2</h2>
+<h2 id="this-is-h3">This is H3</h2>
+<hr>
+<p><strong>Bold Text</strong></p>
+<p><em>Italicized Text</em></p>
+<blockquote>
+<p>Blockquote</p></blockquote>
+<hr>
+<p>Ordered List</p>
+<ol>
+<li>First Item</li>
+<li>Second Item</li>
+<li>Third Item</li>
+</ol>
+<p>Unordered List</p>
+<ul>
+<li>First Item</li>
+<li>Second Item</li>
+<li>Third Item</li>
+</ul>
+<hr>
+<p>&lsquo;This is some code&rsquo;</p>
+<hr>]]></description>
+</item>
+</channel>
+</rss>
